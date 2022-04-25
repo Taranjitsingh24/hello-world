@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> this is a DevOp project</h1>
+   <h1> this is a DevOp project</h2>
 
   
 </form>
