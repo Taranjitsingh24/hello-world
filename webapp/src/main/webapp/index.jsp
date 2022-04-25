@@ -16,7 +16,7 @@
 
 <body>
 <header>
-  <a href="#"><img src="Images/logo.png" alt="" /></a>
+ 
   <h1>HUGO PROFILE</h1>
   <button class="hamburger" id="hamburger">
     <i class="fas fa-bars">
@@ -38,7 +38,7 @@
       <h2>Rather Aadil</h2>
     </div>
     <div class="About" id="about">
-      <p class="para">Hi, I'm Rather Aadil, a passionate Front End web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly.</p>
+      <p class="para">Hi, I'm Taranjit Singh, a passionate Front End web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly.</p>
       <p class="para">This is just a example for about section. You can easily change with the help of cofig file.</p>
       <div class="social">
         <a class="btn" href="#">Resume</a>
