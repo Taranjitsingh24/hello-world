@@ -17,7 +17,7 @@
 <body>
 <header>
  
-  <h1>DevOps Project CI/CD Pipeline</h1>
+  <h1>DevOps Project Automated CI/CD Pipeline</h1>
   <button class="hamburger" id="hamburger">
     <i class="fas fa-bars">
     </i>
