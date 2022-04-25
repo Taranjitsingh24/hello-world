@@ -10,7 +10,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
   <!--Font Awesome Icons-->
   <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
-  <title>HUGO PROFILE</title>
+  <title>DevOps project</title>
   <link rel="stylesheet" href="style.css">
 </head>
 
@@ -34,12 +34,12 @@
   <!-- MAIN SECTION -->
   <section id="main-section">
     <div class="avtar">
-      <img src="Images/avtar.jpg" alt="AVATAR" />
+   
       <h2>Rather Aadil</h2>
     </div>
     <div class="About" id="about">
-      <p class="para">Hi, I'm Taranjit Singh, a passionate Front End web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly.</p>
-      <p class="para">This is just a example for about section. You can easily change with the help of cofig file.</p>
+      <p class="para">Hi, I'm Taranjit Singh, Software Development Student in MTU Kerry campus.</p>
+      <p class="para">This is just a example project for DevOps Project.</p>
       <div class="social">
         <a class="btn" href="#">Resume</a>
         <i class="fab fa-facebook-square "></i>
