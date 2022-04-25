@@ -17,7 +17,7 @@
 <body>
 <header>
  
-  <h1>HUGO PROFILE</h1>
+  <h1>DevOps Project CI/CD Pipeline</h1>
   <button class="hamburger" id="hamburger">
     <i class="fas fa-bars">
     </i>
@@ -35,7 +35,7 @@
   <section id="main-section">
     <div class="avtar">
    
-      <h2>Rather Aadil</h2>
+      <h2>Taranjit Singh</h2>
     </div>
     <div class="About" id="about">
       <p class="para">Hi, I'm Taranjit Singh, Software Development Student in MTU Kerry campus.</p>
