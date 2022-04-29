@@ -35,7 +35,7 @@
   <section id="main-section">
     <div class="avtar">
    
-      <h2>Taranjit Singh</h2>
+      <h2>Taranjit</h2>
        <h2>Student Number: T00222100</h2>
     </div>
     <div class="About" id="about">
